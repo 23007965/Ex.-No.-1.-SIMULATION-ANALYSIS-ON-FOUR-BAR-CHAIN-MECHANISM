@@ -54,9 +54,10 @@
 
 ## Output:
 
+### Name:   P PARTHIBAN
+### Register Number: 212223230145
 
-### Name:
-### Register Number: 
+![image](https://github.com/23007965/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/138971238/f71ee284-8aca-44d7-aad9-e4a9cfb42750)
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
